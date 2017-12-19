@@ -3,6 +3,8 @@ CryptoNoter Docker
 
 Start [CryptoNoter](github.com/cryptonoter/CryptoNoter) in a docker container.
 
+See [www.cryptonoter.com](www.cryptonoter.com) for more info.
+
 
 ## Environment Variables
 
