@@ -7,8 +7,11 @@ Start [CryptoNoter](github.com/cryptonoter/CryptoNoter) in a docker container.
 ## Environment Variables
 
 ** DOMAIN ** defaults to `localhost`
+
 ** POOL ** defaults to `pool.cryptonoter.com:1111`
+
 ** ADDR ** (REQUIRED) the XMR or ETN address to send payments
+
 ** PASS ** (REQUIRED) the password for CryptoNoter
 
 ## Example
